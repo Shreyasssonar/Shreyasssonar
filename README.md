@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shreyas Sonar and I'm a full stack developer, from India</h2>
+<h1 align="left">Hi 👋! My name is Shreyas Sonar and I'm a full stack developer, from India</h1>
 
 ###
 
@@ -79,13 +79,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shreyasssonar/Shreyasssonar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Shreyasssonar/count.svg?"  />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
 </div>
 
 ###
